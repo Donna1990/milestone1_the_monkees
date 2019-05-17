@@ -1,2 +1,5 @@
-# milestone1_the_monkees
+# Milestone 1 - The Monkees Fansite
+
 My First Milestone Project
+
+
